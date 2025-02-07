@@ -1,7 +1,7 @@
 # MeetingSummarizerandplanofactiongenerator
 
 # Brief Summary of The Project
-The Meeting Summarizer and Plan of Action Generator is a system designed to process video or audio recordings of meetings, automatically generating a concise summary and actionable plan of action. Using advanced machine learning and speech recognition models, the system analyzes the content of the meeting, identifies the meeting's genre (e.g., business, brainstorming, technical, etc.), and determines the number of speakers involved and also Sending an automated email to predefined recipients with the summary and action plan attached.
+The Meeting Summarizer and Plan of Action Generator is a system designed to process video or audio recordings of meetings, automatically generating a concise summary and actionable plan of action. Using advance Machine Learning Models, NLP and speech recognition models, the system analyzes the content of the meeting, identifies the meeting's genre (e.g., business, brainstorming, technical, etc.), and determines the number of speakers involved and also Sending an automated email to predefined recipients with the summary and action plan attached.
 
 # Technical Stack:
 - **Python**: Core programming language for system development.
